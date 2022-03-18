@@ -85,16 +85,16 @@ exports.notNum = (q) => {
     return `"${q}", bukan angka!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hai tod ${pushname} 👋 selamat ${salam} , 
-saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp. 
+	return`Hai mek ${pushname} 👋 selamat ${salam} , 
+saya ${botname}, babu nya kiki
 
-*KALAU MAKE BOT YANG BENER DEK GA USAH SEPAM TOLOL*      
+*KALAU MAKE BOT YANG BENER DEK GA USAH SEPAM TOLOL* 🙏    
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*😎List-Menu Kiki Bot :*
+*📚 List-Menu Kiki bot :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -784,12 +784,12 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ My God
 ├ My Parents
 ├ Fatih A.
-├ Sanzy Yt
+├ Ferdi
 ├ DikaArdnt
-├ Lexxy official
-├ Zeone ofc
-├ Kirbotz
-├ Kiki Gabut
+├ Mhankbarbar
+├ Nurutomo
+├ Rashid
+├ ZeeoneOfc
 ├ Penyedia Module
 ╰❒ And All Support
     `
@@ -826,22 +826,22 @@ Sanksi: *PERMANENT BLOCK*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Kiki bot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan kiki bot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
 Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan kiki bot
 😖🙏
 `
 }
-exports.welcome Dek= () =>{
-	return`Jangan Lupa Intro Tod
-⌯ָ   ֙Nama :
-⌯ָ   ֙Umur :
-⌯ָ   ֙Kelamin :
-⌯ָ   ֙Askot :
+exports.welcome = () =>{
+	return`Jangan Lupa Intro Ya~
+⌯ָ   *Di larang sherlink*
+⌯ָ   *Di larang lapak ft/dm*
+⌯ָ   *Di larang kirim 18+*
+⌯ָ   *Di Larang kirim virtek yyy jlk*
 ╰─ ᝬ _Patuhi Rules Group Ya_  >_<`
 }
 exports.leave = () =>{
-	return`Yah kok kluar pasti di panggil emak nya beli gorengan >.<
+	return`Yah kok out 😣 Mental aman kan kak >.<
 Goodbye`
 }
 exports.source = () =>{
@@ -849,7 +849,6 @@ return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
 Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
-Pemakai : https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ
 `
 }
 exports.tos = (ownernomer) => {
