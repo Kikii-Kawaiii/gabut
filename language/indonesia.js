@@ -832,7 +832,7 @@ Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu 
 😖🙏
 `
 }
-exports.welcome Dek= () =>{
+exports.welcome = () =>{
 	return`Jangan Lupa Intro Tod
 ⌯ָ   ֙Nama :
 ⌯ָ   ֙Umur :
