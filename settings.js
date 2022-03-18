@@ -12,14 +12,14 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = true // auto read pesan / message
+global.autoread = false // auto read pesan / message
 global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 
 // Other
 global.botname = "Kiki Bot" //namabot kalian
-global.ownername= "YT KIKI GABUT" //nama kalian
+global.ownername= "Kiki ajg" //nama kalian
 global.myweb ="https://instagram.com/kikibot_" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ" //bebas asal jan hapus
 global.github = "http://github.com/Kikii-Kawaiii" //bebas
@@ -42,7 +42,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: 'DONE JANGA LUPA SUBSCRIBE YT KIKI GABUT',
+    sukses: 'DONE JANGA LUPA SUBSCRIBE Kiki ajg',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin dek',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin dek',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner dek',
