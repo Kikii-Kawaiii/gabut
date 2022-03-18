@@ -5,14 +5,14 @@ exports.wait = () => {
     return `⏳ Mohon tunggu sebentar~`
 }
 exports.ok = () => {
-    return `✅ Done. Ok desu~`
+    return `done subscribe Yt : Kiki ajg`
 }
 
 exports.err = () => {
-    return `⚠️ Fitur Sedang Error`
+    return `Fitur Sedang Error gblk`
 }
 exports.erorLink = () => {
-    return `⚠️ Link nya error`
+    return `Link nya error ngtd`
 }
 exports.media = () => {
     return `Silahkan pilih media yang ingin kamu download`
@@ -46,7 +46,7 @@ exports.groupOnly = () => {
 }
 
 exports.adminOnly = () => {
-    return `🙅  Command ini hanya bisa digunakan oleh admin grup!`
+    return `Command ini hanya bisa digunakan oleh admin grup gblk`
 }
 
 exports.nhFalse = () => {
@@ -85,10 +85,10 @@ exports.notNum = (q) => {
     return `"${q}", bukan angka!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hai mek ${pushname} 👋 selamat ${salam} , 
-saya ${botname}, babu nya kiki
+	return`*Hai mek* ${pushname} 👋 *selamat* ${salam} , 
+*saya* ${botname}, *babu nya kiki*
 
-*KALAU MAKE BOT YANG BENER DEK GA USAH SEPAM TOLOL* 🙏    
+*KALAU MAKE BOT YANG BENER DEK GA USAH SEPAM TOLOL LU TAU GA BUAT BOT GA GAMPANG AJG JADI MIKIR LAH MAKE BOT YANG BENER NGTD*     
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
