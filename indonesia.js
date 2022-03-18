@@ -5,14 +5,14 @@ exports.wait = () => {
     return `⏳ Mohon tunggu sebentar~`
 }
 exports.ok = () => {
-    return `✅ Done. Ok desu~`
+    return `done subscribe Yt : Kiki ajg`
 }
 
 exports.err = () => {
-    return `⚠️ Fitur Sedang Error`
+    return `Fitur Sedang Error gblk`
 }
 exports.erorLink = () => {
-    return `⚠️ Link nya error`
+    return `Link nya error ngtd`
 }
 exports.media = () => {
     return `Silahkan pilih media yang ingin kamu download`
@@ -46,7 +46,7 @@ exports.groupOnly = () => {
 }
 
 exports.adminOnly = () => {
-    return `🙅  Command ini hanya bisa digunakan oleh admin grup!`
+    return `Command ini hanya bisa digunakan oleh admin grup gblk`
 }
 
 exports.nhFalse = () => {
@@ -85,10 +85,10 @@ exports.notNum = (q) => {
     return `"${q}", bukan angka!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hai mek ${pushname} 👋 selamat ${salam} , 
-saya ${botname}, babu nya kiki
+	return`*Hai mek* ${pushname} 👋 *selamat* ${salam} , 
+*saya* ${botname}, *babu nya kiki*
 
-*KALAU MAKE BOT YANG BENER DEK GA USAH SEPAM TOLOL* 🙏    
+*KALAU MAKE BOT YANG BENER DEK GA USAH SEPAM TOLOL LU TAU GA BUAT BOT GA GAMPANG AJG JADI MIKIR LAH MAKE BOT YANG BENER NGTD*     
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
@@ -833,13 +833,12 @@ Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu 
 `
 }
 exports.welcome = () =>{
-	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 𝗄𝖺𝗄 🤗
-	
-╭ 𝖭𝖺𝗆𝖺 :
-├ 𝖴𝗆𝗎𝗋 :
-├ 𝖦𝖾𝗇𝖽𝖾𝗋 :
-├ 𝖠𝗌𝗄𝗈𝗍 :
-╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
+	return`Jangan Lupa Intro Ya~
+⌯ָ   *Di larang sherlink*
+⌯ָ   *Di larang lapak ft/dm*
+⌯ָ   *Di larang kirim 18+*
+⌯ָ   *Di Larang kirim virtek yyy jlk*
+╰─ ᝬ _Patuhi Rules Group Ya_  >_<`
 }
 exports.leave = () =>{
 	return`Yah kok out 😣 Mental aman kan kak >.<
