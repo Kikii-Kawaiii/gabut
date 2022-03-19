@@ -88,7 +88,10 @@ exports.menunya = (salam, pushname, botname) =>{
 	return`*Hai mek* ${pushname} 👋 *selamat* ${salam} , 
 *saya* ${botname}, *babu nya kiki*
 
-*KALAU MAKE BOT YANG BENER DEK GA USAH SEPAM TOLOL LU TAU GA BUAT BOT GA GAMPANG AJG JADI MIKIR LAH MAKE BOT YANG BENER NGTD*     
+ᴋᴀʟᴀᴜ ᴍᴀᴋᴇ ʙᴏᴛ ᴊᴀɴɢᴀɴ sᴇᴘᴀᴍ ʏᴀ !!
+ʙᴛᴡ ʙᴀɴᴛᴜ ғᴏʟᴏᴡ ɪɴsᴛᴀɢʀᴀᴍ ᴄᴇʀᴀᴛᴏʀ 
+ʟɪɴᴋ ᴅɪ ʙᴀᴡᴀʜ ᴍᴀᴋᴀsɪʜ ʙᴜᴀᴛ ᴋᴀʟɪᴀɴ ʏᴀɴɢ ᴅᴀʜ
+ғᴏʟᴏᴡ sᴇʜᴀᴛ sᴇʟᴀʟᴜ ᴅᴀɴ ᴊᴀɴ ʟᴜᴘᴀ ʙᴀʜᴀɢɪᴀ ʏᴀ 😻  
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
@@ -847,8 +850,7 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+🗿🗿🗿🗿🗿
 `
 }
 exports.tos = (ownernomer) => {
