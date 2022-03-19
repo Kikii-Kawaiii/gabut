@@ -18,8 +18,8 @@ global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 
 // Other
-global.botname = "Kiki Bot" //namabot kalian
-global.ownername= "Kiki ajg" //nama kalian
+global.botname = "𝗞𝗶𝗸𝗶 𝗯𝗼𝘁 𝗠𝗱" //namabot kalian
+global.ownername= "𝗞𝗶𝗸𝗶 𝗮𝗷𝗴" //nama kalian
 global.myweb ="https://instagram.com/kikibot_" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ" //bebas asal jan hapus
 global.github = "http://github.com/Kikii-Kawaiii" //bebas
@@ -31,7 +31,7 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6283808840711","6283808840711","6283808840711"] //ganti agar fitur owner bisa di gunakan
-global.packname = 'punya kiki🗿' //sticker wm ubah
+global.packname = 'buatan Kiki🗿' //sticker wm ubah
 global.author = '083808840711' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
